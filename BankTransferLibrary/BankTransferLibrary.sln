@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankTransferLibrary", "BankTransferLibrary.csproj", "{48998DB6-7F05-4A6D-BFF8-5DC6859A8B6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankTransferLibraryTests", "..\BankTransferLibraryTests\BankTransferLibraryTests.csproj", "{FAF53F1D-5CE7-43D2-ABAD-E601E56037C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48998DB6-7F05-4A6D-BFF8-5DC6859A8B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48998DB6-7F05-4A6D-BFF8-5DC6859A8B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48998DB6-7F05-4A6D-BFF8-5DC6859A8B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48998DB6-7F05-4A6D-BFF8-5DC6859A8B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAF53F1D-5CE7-43D2-ABAD-E601E56037C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF53F1D-5CE7-43D2-ABAD-E601E56037C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF53F1D-5CE7-43D2-ABAD-E601E56037C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF53F1D-5CE7-43D2-ABAD-E601E56037C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08680453-A637-4B52-8F0C-D99C8B48CC5F}
+	EndGlobalSection
+EndGlobal
